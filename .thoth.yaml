@@ -16,6 +16,7 @@ managers:
     configuration:
       labels: [bot]
   - name: thoth-advise
+    configuration:
       labels: [bot]
   - name: info
   - name: version
